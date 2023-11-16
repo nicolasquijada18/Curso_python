@@ -45,5 +45,5 @@ colores[3] = "Negro"
 
 
 #Las listas se pueden modificar accediendo al indice pero, las tuplas no.
-#En los conjuntos no pueden haber datos duplicados y tampoco se pueden modificar accediendo a indice
+#En los conjuntos no pueden haber datos duplicados y tampoco se pueden modificar accediendo a indice  pero si se pueden eliminar
 
