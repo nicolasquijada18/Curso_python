@@ -24,3 +24,14 @@ valor = diccionario.get("nombre")
 #Eliminar todo del diccionario
 diccionario.clear()
 #print(diccionario)
+
+
+#Eliminar elemento del diccionario
+diccionario.pop("nombre")
+#print(diccionario)
+
+
+#Obtener diccionario iterable
+diccionario_iterable = diccionario.items()
+#print(diccionario)
+#print(diccionario_iterable)
