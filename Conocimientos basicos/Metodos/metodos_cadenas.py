@@ -81,8 +81,11 @@ cadena_replace = cadena.replace("Texto", "Hola")
 
 
 #Separar cadena de texto (devuelve una lista)
-cadena_split = cadena.split("e")
+cadena_split = cadena.split(" ")
+contador = len(cadena_split)
 #print(cadena_split)
+#print(contador)
+
 
 
  
