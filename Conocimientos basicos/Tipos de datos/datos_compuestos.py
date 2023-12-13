@@ -4,7 +4,7 @@ modales = ["hola", "adios", "gracias", "denada"]
 #Tupla
 colores = ("rojo", "azul", "verde" , "amarillo")
 
-#Conjunto
+#Conjunto (los datos de los conjuntos no tienen un orden)
 nombres = {"Maria", "Yankee", "Pedro", "Juan"}
 
 #Diccionario

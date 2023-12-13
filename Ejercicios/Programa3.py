@@ -41,9 +41,20 @@ a_2 = f"El porcentaje de diferencia entre el curso de dalto y el promedio es de 
 #-El promedio de los cursos
 #-El curso actual(este curso)
 
+#b.1)
+porcentaje_b1 = int(100-(promedio*100/grabacion_cruda_otros))
+b_1 = f"El porcentaje de material inservible que se reduce en otros cursos es de {porcentaje_b1}%"
 
 
+
+#b.2)
+porcentaje_b2 = int(100-(curso_dalto*100/grabacion_cruda_dalto))
+b_2 = f"El porcentaje de material inservible que se reduce en el curso de dalto es de {porcentaje_b2}%"
 
 
 #C)Ver 10 horas de este curso a cuantas de otros cursos equivale.
 #Ver 10 horas de otros cursos a cuantas horas de este curso equivale
+
+#c.1)
+#???????????????????????????????????????????????????????
+porcentaje_c1 = promedio/curso_dalto
