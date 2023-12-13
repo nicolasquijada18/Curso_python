@@ -21,7 +21,6 @@ lista_len = len(lista)
 
 #Agregar un elemento a la lista
 lista.append("buenas noches")
-#print(lista_append) (No retorna nada porque estas modificando la lista anterior) 
 #print(lista)
 
 

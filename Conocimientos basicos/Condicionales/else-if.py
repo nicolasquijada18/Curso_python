@@ -1,5 +1,5 @@
 #Funciona para dar un segundo if dependiendo si el anterior se cumple o no
-plata = 10000
+plata = 1200
 
 if plata >= 10000:
     print("Estas bien economicamente en cualquier lugar")
