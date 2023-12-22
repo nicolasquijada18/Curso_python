@@ -33,5 +33,5 @@ diccionario.pop("nombre")
 
 #Obtener diccionario iterable
 diccionario_iterable = diccionario.items()
-#print(diccionario)
-#print(diccionario_iterable)
+print(diccionario)
+print(diccionario_iterable)

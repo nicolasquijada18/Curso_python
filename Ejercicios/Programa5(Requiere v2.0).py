@@ -1,5 +1,4 @@
 #Buscador de libros, buscara segun precio, segun categoria y por nombre.
-
 #Lista con diccionarios de libros
 Libros = [{
     'Nombre' : "Don quijote",
@@ -21,17 +20,10 @@ Libros = [{
         'Precio' : 10000,
         'Categoria' : "Finanzas"
     }]
-
 #Buscador
-
-
-
 print("Bienvenido al buscador de libros version 1.0, aqui podras buscar libros segun su categoria, precio y por su nombre")
-
 #Respuesta del usuario para saber que desea buscar
 respuesta_1 = input("Ingresa como deseas buscar el libro (Precio, Categoria, Nombre)\n")
-
-
 #If para validar si ingreso opcion correcta
 if (respuesta_1 != "Precio" and respuesta_1 != "Categoria" and respuesta_1 != "Nombre"):
     print("Ingresaste una opcion incorrecta") 
